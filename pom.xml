@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>io.bitbucket.ahmad_altayeh</groupId>
+  <groupId>io.github.aaltayeh</groupId>
   <artifactId>authentication</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
@@ -41,9 +41,9 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:ssh://git@bitbucket.org/ahmad_altayeh/authentication.git</connection>
-    <developerConnection>scm:git:ssh://git@bitbucket.org/ahmad_altayeh/authentication.git</developerConnection>
-    <url>https://bitbucket.org/ahmad_altayeh/authentication.git</url>
+    <connection>scm:git:git@github.com:aaltayeh/authentication.git</connection>
+    <developerConnection>scm:git:ssh://github.com:aaltayeh/authentication.git</developerConnection>
+    <url>https://github.com/aaltayeh/authentication</url>
   </scm>
 
   <profiles>
